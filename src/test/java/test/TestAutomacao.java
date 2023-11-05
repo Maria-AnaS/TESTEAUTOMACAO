@@ -17,6 +17,8 @@ public class TestAutomacao {
 			
 		driver.get("https://google.com.br");
 		driver.manage().window().maximize();
+		
+		
 	}
 
 }
